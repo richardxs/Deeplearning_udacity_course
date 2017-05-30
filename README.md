@@ -1,2 +1,2 @@
 # Deeplearning_udacity_course
-First_project
+Deep Learning Nanodegree program is fantastic!
